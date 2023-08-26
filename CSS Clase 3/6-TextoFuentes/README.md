@@ -8,3 +8,6 @@ Fuente: Foldit
         text-align: Alineación del texto (izquierda, derecha, etc.) <br>
         text-transform: Mostrar un texto en mayúsculas, minúsculas o la primera letra de cada palabra en mayúsculas.
     </p>
+
+**https://github.com/LuisCarlosVazquezPerez**
+**https://gist.github.com/LuisCarlosVazquezPerez**
